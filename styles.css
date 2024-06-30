@@ -1,8 +1,19 @@
-.link {
-    font-size: 20px;
+* {
+    box-sizing: border-box;
+}
+
+.title-bar {
+    height: auto;
+    width: 300px;
+    margin: auto;
+    text-align: center;
 }
 
 .image {
     height: auto;
     width: 20%;
+}
+
+.link {
+    font-size: 20px;
 }
